@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "soulinfusion",
+  "version": "${version}",
+  "name": "Soul-Infusion",
+  "description": "Infuse your Tools and Weapons with Souls to grant new abilities",
+  "authors": [
+    "Skunky"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/soulinfusion/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.skunky.soulinfusion.loader.SoulinfusionClient"
+    ],
+    "main": [
+      "me.skunky.soulinfusion.loader.Soulinfusion"
+    ]
+  },
+  "mixins": [
+    "soulinfusion.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.8",
+    "fabric": "*",
+    "minecraft": "1.19"
+  }
+}
