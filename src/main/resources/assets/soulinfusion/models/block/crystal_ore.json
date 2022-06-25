@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "soulinfusion:block/crystal_ore"
+  }
+}

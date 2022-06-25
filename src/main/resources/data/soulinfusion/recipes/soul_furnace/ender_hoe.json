@@ -1,0 +1,14 @@
+{
+  "type": "soulinfusion:soul_furnace",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_hoe"
+    },
+    {
+      "item": "soulinfusion:ender_crystal"
+    }
+  ],
+  "output": {
+    "item": "soulinfusion:ender_hoe"
+  }
+}

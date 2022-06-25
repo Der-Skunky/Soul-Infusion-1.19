@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  S",
+    "LTL",
+    "LFL"
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "T": {
+      "item": "minecraft:smithing_table"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "result": {
+    "item": "soulinfusion:soul_furnace"
+  }
+}

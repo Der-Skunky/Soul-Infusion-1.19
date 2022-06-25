@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "soulinfusion:item/ender_shovel"
+  }
+}

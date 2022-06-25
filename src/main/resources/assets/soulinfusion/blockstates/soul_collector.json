@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "soulinfusion:block/soul_collector" },
+    "facing=east": { "model": "soulinfusion:block/soul_collector", "y": 90 },
+    "facing=south": { "model": "soulinfusion:block/soul_collector", "y": 180 },
+    "facing=west": { "model": "soulinfusion:block/soul_collector", "y": 270 }
+  }
+}

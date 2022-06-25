@@ -1,0 +1,14 @@
+{
+  "type": "soulinfusion:soul_furnace",
+  "ingredients": [
+    {
+      "item": "soulinfusion:crystal"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    }
+  ],
+  "output": {
+    "item": "soulinfusion:ender_crystal"
+  }
+}

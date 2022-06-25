@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "soulinfusion:crystal_ore",
+    "soulinfusion:crystal_ore_deepslate",
+    "soulinfusion:crystal_ore_netherrack",
+    "soulinfusion:soul_furnace"
+  ]
+}

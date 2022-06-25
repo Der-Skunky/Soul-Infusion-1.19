@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "soulinfusion:block/soul_furnace" },
+    "facing=east": { "model": "soulinfusion:block/soul_furnace", "y": 90 },
+    "facing=south": { "model": "soulinfusion:block/soul_furnace", "y": 180 },
+    "facing=west": { "model": "soulinfusion:block/soul_furnace", "y": 270 }
+  }
+}
